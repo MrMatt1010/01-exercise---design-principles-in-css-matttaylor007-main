@@ -1,0 +1,9 @@
+{
+  "name": "01-project-design-with-white-space-and-hierarchy",
+  "author": "Developers Institute",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {}
+}
